@@ -1,0 +1,1 @@
+Strings.d: ../Strings.cpp
